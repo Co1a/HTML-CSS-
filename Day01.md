@@ -28,15 +28,15 @@
   * JavaScript，用于响应用户操作
 
 ### HTML和CSS简介
-  有且只有一个根标签<html></html>
+  有且只有一个根标签
  ```html
   <html>
     <head>
-      <title></title>
+      <title>显示在标题栏</title>
     </head>
     <body>
       <h2>随意发挥</h2>
-      <font face="STCAIYUN">我是华文彩云</font>
+      title中的内容显示在标题栏，body是显示网页的东西(页面可见内容，head里的内容是帮助浏览器去解析网页的。
     </body>
   </html>
  ```
